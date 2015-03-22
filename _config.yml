@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            Proud Generalist
-tagline:          'A Jekyll theme'
-description:      A millennial's lessons in building a career as a generalist.
+tagline:          #
+description:      A millennial's lessons building a career as a generalist
 url:              proudgeneralist.github.io
 baseurl:          /
 
@@ -24,3 +24,4 @@ version:          1.0
 
 github:
   repo:           https://github.com/proudgeneralist
+  
