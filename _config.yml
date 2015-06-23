@@ -16,7 +16,7 @@ theme:
 
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> | Written by <a href="twitter.com/hmkirs">@hmkirs</a>
+   Written by <a href="twitter.com/hmkirs">@hmkirs</a> | Powered by <a href="http://jekyllrb.com">Jekyll</a>
 
   # Icons
   rss: false
