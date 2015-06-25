@@ -1,7 +1,16 @@
 ---
 layout: page
-title: Others
+title: Inspiration
 permalink: /others/
 hide: false
 ---
-Blogs I follow. 
+Blogs
+
+Books
+
+Videos
+
+Podcasts
+
+People who never seize to inspire me.
+
